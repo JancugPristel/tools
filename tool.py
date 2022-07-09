@@ -52,8 +52,8 @@ hem = p + """
        /         /  //|                                    
       /_________/  ////|      \033[94msmart people for you | and enjoy with me\033[95m        
      |   _ _    | 8o////|                                  
-     | /'// )_  |   8///|     \033[94mthanks to : Zone - Exploit | Attack Of Cyber\033[95m
-     |/ // // ) |   8o///|    \033[94mthanks to : lilo ganteng for banner ASCII :v\033[95m
+     | /'// )_  |   8///|     \033[94mFree Ddos Di R.C.C : Link Soon\033[95m
+     |/ // // ) |   8o///|    \033[94mMade By : iColi Gitu Loh :v\033[95m
      / // // //,|  /  8//|                                 
     / // // /// | /   8//|                                 
    / // // ///__|/    8//|                                 
@@ -63,10 +63,10 @@ hem = p + """
 (_) \"/ (_)'|_|         8/////////////                     
  (_)._.(_) d' Hb         8oooooooopb'                      
    `(_)'  d'  H`b                                          
-         d'   `b`b      \033[91mCoded by Mr.w0n63d4n\033[95m
+         d'   `b`b      \033[91mCoded Mr.IcolixV R.C.C\033[95m
         d'     H `b     \033[91mTesting tools please stay with me\033[95m
        d'      `b `b    \033[97mPlease support me need support from you :(\033[95m
-      d'           `b   \033[97mContact WA : +628811664850\033[95m
+      d'           `b   \033[97mContact WA : +62082322980618\033[95m
      d'             `b\n"""
 # my name is yopie rizqi maulana
 # nickname me Mr.w0n63dan
